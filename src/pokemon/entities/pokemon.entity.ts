@@ -16,7 +16,7 @@ export class Pokemon extends Document {
     })
     name: string;
     
-    url: string;
+    // url: string;
 }
 
 //Eportamos esquema de definiciones
