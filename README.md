@@ -26,6 +26,13 @@ npm i -g @nestjs/cli
 ```
 docker-compose up -d
 ```
+### 5.- Recargar la BDs con el SEED
+```
+http://localhost:3000/api/v2/seed 
+```
+
+
+
 
 ### Compile and run the project
 
